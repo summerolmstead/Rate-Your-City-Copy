@@ -512,7 +512,7 @@ app.get('/nashvillehealthcare/:category', async (req, res) => {
 
   
 
-const API_KEY = '4dee9244ca9041a8a882f81b760bc3ac';  // Your Geoapify API key
+//const API_KEY =   // Your Geoapify API key
 
 //assumed for chattanooga still
 //WHEN WE PASS A CATEGORY FROM THE API IN THIS only call it once!!!!!!!!! if do other cities mak sure to change
